@@ -1,0 +1,8 @@
+{
+    "classes": [
+        "cat",
+        "dog",
+        "wild"
+    ],
+    "image_size": 224
+}
